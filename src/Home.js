@@ -17,47 +17,30 @@ class Home extends Component {
         ReactGA.pageview("/Home");
         
         return <div>
-                <h2>Welcome to Circle Back to Seattle!</h2>
+                <h2>Welcome to Belles Run Philadelphia 2019!</h2>
                 <br/>
                 <h3>Updates</h3><p>Open this app twice for the latest</p>
                 <ul>
-                    <li><b>Moonshine moved to Willow</b> (Friday @ 10pm)<br/>
-                    C1 at 10 with Todd will be in Ravenna</li>
+            <li>Text Dan Lyke, 415-342-5180, with updates</li>
                 </ul>
                 <h3>Fast facts</h3>
                 <ul>
                     <li>
                         <b>Hotel</b>
                         <br />
-                        <a target="_blank" rel="noopener noreferrer" href="http://www.sheratonseattle.com/">
-                            Sheraton Seattle Hotel
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.marriott.com/hotels/travel/phlws-philadelphia-201-hotel/">Philadephia 201 Hotel</a>
+                        <br />
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/place/201+N+17th+St,+Philadelphia,+PA+19103/data=!4m2!3m1!1s0x89c6c632880cc80d:0x822a9fbfdcd7a946?sa=X&ved=2ahUKEwivkf2m3f3iAhUjgK0KHeoaC4wQ8gEwAHoECAoQAQ">
+                             201 North 17th Street, Philadelphia, Pennsylvania 19103 USA
                         </a>
                         <br />
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.google.com/maps/place/Sheraton+Seattle+Hotel/@47.6110957,-122.3360236,17z/data=!3m1!4b1!4m7!3m6!1s0x54906ab45f555241:0xd56f6e55dd269b72!5m1!1s2018-07-08!8m2!3d47.6110921!4d-122.333835">
-                            1400 6th Ave, Seattle, WA 98101
-                        </a>
-                        <br />
-                        Phone: 206-292-9500
+                        Phone: 215-448-2000
                     </li>
                     <li>
-                        See <a target="_blank" rel="noopener noreferrer" href="https://circlebacktoseattle.com/">
-                            circlebacktoseattle.com
+                        See <a target="_blank" rel="noopener noreferrer" href="https://www.philadelphia2019.com/">
+            philadelphia2019.com
                         </a> for&nbsp;
-                        <a target="_blank" rel="noopener noreferrer" href="https://circlebacktoseattle.com/wp-content/uploads/2018/06/Airport-to-Hotels.pdf">
-                            airport to hotel instructions
-                        </a>,&nbsp;
-                        <a target="_blank" rel="noopener noreferrer" href="https://circlebacktoseattle.com/wp-content/uploads/2018/06/Parking-Options.pdf">
-                            parking options
-                        </a> and more.
-                    </li>
-                    <li>
-                        <b>Thank you!</b>
-                        <br />
-                        We got the flooring set in record time
-                    </li>
-                    <li>
-                        <b>Trails End Dance</b> with Ett McAtee and Bill Eyler<br />
-                        Wed July 4, 7-10pm
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.philadelphia2019.com/index.php/transportation">transportation options</a> and more.
                     </li>
                     <li>
                         <b>Square Dancing</b>
@@ -66,39 +49,17 @@ class Home extends Component {
                             Thurs July 5 - Sat July 7
                         </NavLink>
                     </li>
-                    <li>
-                        <b>Keep your clubs strong!</b>
-                        <br />
-                        Recruiting &amp; Retention meetings in Boren on Thu 11-12, Fri 11-12, and Sat 1-2. <br />
-                        Contact Brad Bruner (<a target="_top" rel="noopener noreferrer" href="mailto:brad_bruner@yahoo.com">
-                            brad_bruner@yahoo.com
-                        </a>) or Thom Dang (<a target="_top" rel="noopener noreferrer" href="mailto:tc_dang@yahoo.com">
-                            tc_dang@yahoo.com
-                        </a>) for details.
-                    </li>
-                    <li><b>Hospitality Rooms</b><br/>
-                    Women's: 2802 , Men's: 2902 (Dance hours only)
-                    </li>
-                    <li>
-                        <b>Fun Badge Tour</b>
-                        <br />
-                        Sun July 8 - be there!
-                    </li>
                 </ul>
                 <br />
                 {this.installInstructions()}
                 <br />
                 <h2>Feedback?</h2>
-                What do you like? What would you suggest future conventions do differently?<br />
-                Send an email to <a target="_top" rel="noopener noreferrer" href="mailto: cbts.talk@gmail.com">
-                    {" "}
-                    cbts.talk@gmail.com
-                </a>
+            <p>If there's something you'd like different in this app, find Dan Lyke and tell him.</p>
                 <br />
                 <br />
                 <br />
                 <span className="finePrint">
-                    <p>Updated: Thu Jul  5 11:33:26 PDT 2018</p>
+                    <p>Updated: Sat Jun 22 11:58:46 PDT 2019</p>
                 </span>
                 <span className="finePrint">
                     <p>
